@@ -83,12 +83,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📞 Contact
 
-[Your Name] - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/pulsar-chat-app](https://github.com/yourusername/pulsar-chat-app)
-
----
 
 ⭐️ Don't forget to give the project a star if you find it useful!
